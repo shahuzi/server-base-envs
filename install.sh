@@ -15,6 +15,6 @@ cp ${work_dir}/config_files/.zshrc ~
 source ~/.zshrc
 
 # install tmux 
-sudo apt -get install tmux 
+sudo apt-get install tmux 
 cp ${work_dir}/config_files/.tmux.conf ~
 
